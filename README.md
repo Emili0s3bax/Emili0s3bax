@@ -3,10 +3,10 @@
 </div>
 
 <div align="center">
-  <h1>👋 ¡Hola! Soy [Tu Nombre]</h1>
+  <h1>👋 ¡Hola! Soy Emili0s3bax</h1>
   <p><b>Sistemas | Ciberseguridad | Networking | Ecuador 🇪🇨</b></p>
   
-  <a href="https://linkedin.com/in/TU_USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:tu-correo@ejemplo.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
@@ -28,7 +28,7 @@ Soy un **Ingeniero de Sistemas** enfocado en la seguridad y el monitoreo de rede
 ### 🐍 Mi Calendario de Contribuciones (Snake)
 
 <div align="center">
-  <img src="https://github.com/TU_USUARIO/TU_USUARIO/blob/output/github-contribution-grid-snake.svg" alt="Snake" width="100%" />
+  <img src="https://github.com/Emili0s3bax/Emili0s3bax/blob/output/github-contribution-grid-snake.svg" alt="Snake" width="100%" />
 </div>
 
 <p align="center">
@@ -65,6 +65,6 @@ Soy un **Ingeniero de Sistemas** enfocado en la seguridad y el monitoreo de rede
 ### 📊 Mis Estadísticas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Emili0s3bax&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emili0s3bax&layout=compact&theme=radical" />
 </div>
