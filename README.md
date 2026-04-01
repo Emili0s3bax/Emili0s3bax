@@ -1,36 +1,70 @@
-<p align="left"># ¡Hola! Soy Emili0s3bax 👋</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hola,%20soy%20un%20Ingeniero%20de%20Sistemas&fontSize=40" width="100%" />
+</div>
 
-###
+<div align="center">
+  <h1>👋 ¡Hola! Soy [Tu Nombre]</h1>
+  <p><b>Sistemas | Ciberseguridad | Networking | Ecuador 🇪🇨</b></p>
+  
+  <a href="https://linkedin.com/in/TU_USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:tu-correo@ejemplo.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</div>
 
-<p align="left">
-### 👨‍💻 Ingeniero de Sistemas | Entusiasta de la Ciberseguridad | Gamer</p>
+<br>
 
-###
+---
 
-<p align="left">Soy un ingeniero de sistemas de **Ecuador** apasionado por la infraestructura, el despliegue de redes seguras y el desarrollo de soluciones escalables. Actualmente me enfoco en proyectos de monitoreo y seguridad, combinando herramientas de nivel empresarial para crear entornos resilientes.<br><br>---</p>
+### 🚀 Sobre mí
 
-###
+Soy un **Ingeniero de Sistemas** enfocado en la seguridad y el monitoreo de redes. Me encanta experimentar con infraestructura y optimizar sistemas.
 
-<p align="left">## 🚀 Lo que estoy haciendo actualmente<br>- 🛡️ **Investigación en Ciberseguridad:** Simulación de ataques en entornos controlados y análisis de vulnerabilidades.<br>- 📊 **Monitoreo de Infraestructura:** Configuración avanzada de **Zabbix** y firewalls como **pfSense**.<br>- 🏗️ **Laboratorios de Red:** Implementación de arquitecturas multi-VLAN y virtualización con **Docker**.<br>- 🎓 **Formación continua:** Estudiante universitario becado, siempre buscando aprender nuevas tecnologías.</p>
+* 🔭 **Proyecto actual:** Implementación de monitoreo con **Zabbix** y seguridad perimetral con **pfSense**.
+* ⚙️ **Stack técnico:** Migración de servicios (Java a Go) y gestión de contenedores con **Docker**.
+* 🛡️ **Interés:** Pentesting controlado y análisis de vulnerabilidades desde **Kali Linux**.
+* 🎮 **Hobbies:** Gamer (Valorant, Overwatch, GTA V) y amante del Black Metal y Funk Rock.
 
-###
+---
 
-<p align="left">## 🛠️ Tecnologías y Herramientas<br>- **Lenguajes:** Python, Go, Java, SQL.<br>- **Redes y Seguridad:** pfSense, Kali Linux, configuración de Routers (Raspberry Pi/Stick-on-a-router).<br>- **Infraestructura y DevOps:** Docker, SQL Server, Zabbix, Administración de servidores (Windows Server & Linux).<br>- **Hardware:** Trabajo sobre un HP Victus 15 (RTX 2050, 32GB RAM) optimizado para desarrollo y streaming.</p>
+### 🐍 Mi Calendario de Contribuciones (Snake)
 
-###
+<div align="center">
+  <img src="https://github.com/TU_USUARIO/TU_USUARIO/blob/output/github-contribution-grid-snake.svg" alt="Snake" width="100%" />
+</div>
 
-<p align="left">## 🎮 Más allá del código<br>Cuando no estoy configurando una VLAN o debugeando un API, me puedes encontrar en:<br>- **Gaming:** Jugando competitivamente en **Valorant**, **Overwatch**, **Marvel Rivals** o explorando el caos en **GTA V** y **Fortnite**.<br>- **Música:** Disfrutando de una mezcla ecléctica que va desde el **Black Metal** y **Rock** hasta el **Funk Rock**.<br><br>---</p>
+<p align="center">
+  <i>Este gusanito se pasea por mis commits diarios.</i>
+</p>
 
-###
+---
 
-<p align="left">## 📈 Estadísticas de GitHub<br>![Tus Stats de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)<br>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical)</p>
+### 🛠️ Tecnologías y Herramientas
 
-###
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white" />
+</div>
 
-<p align="left">## 📫 Cómo contactarme<br>- 💼 **LinkedIn:** [Enlace a tu perfil]<br>- 📧 **Email:** [Tu correo electrónico]</p>
+<br>
 
-###
+<details>
+  <summary>💻 <b>Ver especificaciones de mi Workstation</b></summary>
+  <ul>
+    <li><b>Modelo:</b> HP Victus 15</li>
+    <li><b>GPU:</b> NVIDIA RTX 2050</li>
+    <li><b>RAM:</b> 32GB DDR4</li>
+    <li><b>SSD:</b> 1TB M.2</li>
+  </ul>
+</details>
 
-<p align="left">"La curiosidad es la mejor herramienta de un ingeniero."</p>
+---
 
-###
+### 📊 Mis Estadísticas
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical" />
+</div>
