@@ -28,9 +28,9 @@ Soy un **Ingeniero de Sistemas** enfocado en la seguridad y el monitoreo de rede
 <div align="center">
   <h2>🐍 Mi historial de contribuciones</h2>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[TU_USUARIO]/[TU_USUARIO]/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[TU_USUARIO]/[TU_USUARIO]/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/[TU_USUARIO]/[TU_USUARIO]/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Emili0s3bax/Emili0s3bax/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Emili0s3bax/Emili0s3bax/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Emili0s3bax/Emili0s3bax/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
